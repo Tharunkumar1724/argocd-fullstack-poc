@@ -1,0 +1,1 @@
+# argocd-fullstack-poc
